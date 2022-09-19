@@ -5,8 +5,9 @@
 - I am a hard worker with a great work ethic
 
 ### Coding Projects
-- My biggest project is the @TroyArgonauts as a Lead programmer
+- My biggest project is the @TroyArgonauts as a Training Director
 - I am also starting some personal projects to build my resume
+- I have also created a website using github pages to create myself online
 
 ### Languages
 - Java
