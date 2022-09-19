@@ -14,6 +14,7 @@
 - Python
 - MySql
 - C / C++ / C#
+- HTML / CSS
 
 ### Contact
 - You can contact me on Github
