@@ -1,7 +1,7 @@
 # 👋 Hello, I’m Akash Sarada
 
 ### About Me
-- I a High School Junior
+- I am High School Junior
 - I am a hard worker with a great work ethic
 
 ### Coding Projects
