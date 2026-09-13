@@ -2,12 +2,12 @@
 
 ### About Me
 - I attend the Universiy of Michigan
-- Current Software Integration Intern @ Scout Motors Inc.
 - Previously SDE Intern @ Amazon
+- Previously Software Integration Intern @ Scout Motors Inc.
 
 ### Coding Projects
 - I am  working on some personal projects.
-  - PlexAutoImporter : Working on a Machine Learning Algorithm to automatically sort Photos
+  - PlexAutoImporter : Working on a Machine Learning Pipeline to automatically sort Photos
   - ToS Unpacked : Working on Reviving the backend and reworking the frontend
   - PrivateFinance : Creating a security focused finance tracking and budgetting application
 - I have also created a website using github pages to host documentation and other resources. 
